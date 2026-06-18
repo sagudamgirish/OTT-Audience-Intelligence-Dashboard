@@ -1,0 +1,337 @@
+release_year,platform,total_titles
+1920,"Amazon Prime",3
+1922,"Amazon Prime",2
+1923,"Amazon Prime",1
+1923,Hulu,1
+1924,"Amazon Prime",1
+1925,"Amazon Prime",8
+1925,Netflix,1
+1926,"Amazon Prime",2
+1927,"Amazon Prime",1
+1928,Disney+,1
+1929,"Amazon Prime",4
+1930,"Amazon Prime",5
+1931,"Amazon Prime",3
+1932,"Amazon Prime",8
+1932,Disney+,3
+1933,"Amazon Prime",5
+1933,Disney+,3
+1933,Hulu,1
+1934,"Amazon Prime",12
+1934,Disney+,4
+1935,"Amazon Prime",15
+1935,Disney+,4
+1936,"Amazon Prime",29
+1936,Disney+,6
+1937,"Amazon Prime",24
+1937,Disney+,6
+1938,"Amazon Prime",15
+1938,Disney+,5
+1939,"Amazon Prime",21
+1939,Disney+,5
+1940,"Amazon Prime",16
+1940,Disney+,7
+1941,"Amazon Prime",22
+1941,Disney+,7
+1942,"Amazon Prime",16
+1942,Disney+,6
+1942,Netflix,2
+1943,"Amazon Prime",21
+1943,Disney+,2
+1943,Netflix,3
+1944,"Amazon Prime",12
+1944,Disney+,1
+1944,Netflix,3
+1945,"Amazon Prime",14
+1945,Disney+,1
+1945,Netflix,4
+1946,"Amazon Prime",21
+1946,Disney+,2
+1946,Netflix,2
+1947,"Amazon Prime",22
+1947,Disney+,5
+1947,Netflix,1
+1948,"Amazon Prime",15
+1948,Disney+,5
+1949,"Amazon Prime",14
+1949,Disney+,5
+1950,"Amazon Prime",21
+1950,Disney+,6
+1950,Hulu,3
+1951,"Amazon Prime",18
+1951,Disney+,4
+1951,Hulu,2
+1952,"Amazon Prime",16
+1952,Disney+,8
+1953,"Amazon Prime",21
+1953,Disney+,6
+1953,Hulu,4
+1954,"Amazon Prime",15
+1954,Disney+,4
+1954,Hulu,1
+1954,Netflix,2
+1955,"Amazon Prime",9
+1955,Disney+,9
+1955,Hulu,2
+1955,Netflix,3
+1956,"Amazon Prime",17
+1956,Disney+,4
+1956,Netflix,2
+1957,"Amazon Prime",5
+1957,Disney+,4
+1957,Hulu,4
+1958,"Amazon Prime",15
+1958,Hulu,2
+1958,Netflix,3
+1959,"Amazon Prime",18
+1959,Disney+,5
+1959,Hulu,2
+1959,Netflix,1
+1960,"Amazon Prime",12
+1960,Disney+,3
+1960,Hulu,1
+1960,Netflix,4
+1961,"Amazon Prime",11
+1961,Disney+,5
+1961,Hulu,1
+1961,Netflix,1
+1962,"Amazon Prime",12
+1962,Disney+,3
+1962,Hulu,3
+1962,Netflix,3
+1963,"Amazon Prime",20
+1963,Disney+,3
+1963,Hulu,4
+1963,Netflix,2
+1964,"Amazon Prime",13
+1964,Disney+,3
+1964,Hulu,2
+1964,Netflix,2
+1965,"Amazon Prime",9
+1965,Disney+,3
+1965,Hulu,5
+1965,Netflix,2
+1966,"Amazon Prime",10
+1966,Disney+,2
+1966,Hulu,2
+1966,Netflix,1
+1967,"Amazon Prime",17
+1967,Disney+,2
+1967,Hulu,2
+1967,Netflix,5
+1968,"Amazon Prime",19
+1968,Disney+,1
+1968,Hulu,1
+1968,Netflix,3
+1969,"Amazon Prime",16
+1969,Disney+,4
+1969,Hulu,2
+1969,Netflix,2
+1970,"Amazon Prime",25
+1970,Disney+,1
+1970,Hulu,3
+1970,Netflix,2
+1971,"Amazon Prime",16
+1971,Disney+,3
+1971,Hulu,2
+1971,Netflix,5
+1972,"Amazon Prime",20
+1972,Disney+,3
+1972,Hulu,6
+1972,Netflix,5
+1973,"Amazon Prime",17
+1973,Disney+,2
+1973,Hulu,3
+1973,Netflix,10
+1974,"Amazon Prime",24
+1974,Disney+,4
+1974,Hulu,3
+1974,Netflix,7
+1975,"Amazon Prime",27
+1975,Disney+,4
+1975,Hulu,3
+1975,Netflix,7
+1976,"Amazon Prime",12
+1976,Disney+,4
+1976,Hulu,1
+1976,Netflix,9
+1977,"Amazon Prime",14
+1977,Disney+,6
+1977,Hulu,1
+1977,Netflix,7
+1978,"Amazon Prime",23
+1978,Disney+,4
+1978,Hulu,2
+1978,Netflix,7
+1979,"Amazon Prime",16
+1979,Disney+,5
+1979,Hulu,5
+1979,Netflix,11
+1980,"Amazon Prime",25
+1980,Disney+,4
+1980,Hulu,2
+1980,Netflix,11
+1981,"Amazon Prime",22
+1981,Disney+,3
+1981,Hulu,4
+1981,Netflix,13
+1982,"Amazon Prime",17
+1982,Disney+,2
+1982,Hulu,6
+1982,Netflix,17
+1983,"Amazon Prime",17
+1983,Disney+,2
+1983,Hulu,4
+1983,Netflix,11
+1984,"Amazon Prime",28
+1984,Disney+,4
+1984,Hulu,7
+1984,Netflix,12
+1985,"Amazon Prime",28
+1985,Disney+,8
+1985,Hulu,7
+1985,Netflix,10
+1986,"Amazon Prime",40
+1986,Disney+,7
+1986,Hulu,6
+1986,Netflix,13
+1987,"Amazon Prime",33
+1987,Disney+,6
+1987,Hulu,5
+1987,Netflix,8
+1988,"Amazon Prime",44
+1988,Disney+,6
+1988,Hulu,8
+1988,Netflix,18
+1989,"Amazon Prime",45
+1989,Disney+,7
+1989,Hulu,10
+1989,Netflix,16
+1990,"Amazon Prime",40
+1990,Disney+,5
+1990,Hulu,9
+1990,Netflix,22
+1991,"Amazon Prime",45
+1991,Disney+,6
+1991,Hulu,7
+1991,Netflix,17
+1992,"Amazon Prime",56
+1992,Disney+,10
+1992,Hulu,7
+1992,Netflix,23
+1993,"Amazon Prime",57
+1993,Disney+,14
+1993,Hulu,16
+1993,Netflix,28
+1994,"Amazon Prime",63
+1994,Disney+,14
+1994,Hulu,14
+1994,Netflix,22
+1995,"Amazon Prime",72
+1995,Disney+,13
+1995,Hulu,15
+1995,Netflix,25
+1996,"Amazon Prime",62
+1996,Disney+,17
+1996,Hulu,14
+1996,Netflix,24
+1997,"Amazon Prime",59
+1997,Disney+,17
+1997,Hulu,21
+1997,Netflix,38
+1998,"Amazon Prime",59
+1998,Disney+,20
+1998,Hulu,23
+1998,Netflix,36
+1999,"Amazon Prime",64
+1999,Disney+,22
+1999,Hulu,25
+1999,Netflix,39
+2000,"Amazon Prime",81
+2000,Disney+,26
+2000,Hulu,23
+2000,Netflix,37
+2001,"Amazon Prime",82
+2001,Disney+,18
+2001,Hulu,28
+2001,Netflix,45
+2002,"Amazon Prime",92
+2002,Disney+,21
+2002,Hulu,25
+2002,Netflix,51
+2003,"Amazon Prime",81
+2003,Disney+,29
+2003,Hulu,31
+2003,Netflix,61
+2004,"Amazon Prime",103
+2004,Disney+,28
+2004,Hulu,37
+2004,Netflix,64
+2005,"Amazon Prime",112
+2005,Disney+,32
+2005,Hulu,42
+2005,Netflix,80
+2006,"Amazon Prime",138
+2006,Disney+,32
+2006,Hulu,57
+2006,Netflix,96
+2007,"Amazon Prime",176
+2007,Disney+,23
+2007,Hulu,47
+2007,Netflix,88
+2008,"Amazon Prime",171
+2008,Disney+,33
+2008,Hulu,46
+2008,Netflix,136
+2009,"Amazon Prime",149
+2009,Disney+,35
+2009,Hulu,78
+2009,Netflix,152
+2010,"Amazon Prime",186
+2010,Disney+,39
+2010,Hulu,73
+2010,Netflix,194
+2011,"Amazon Prime",252
+2011,Disney+,52
+2011,Hulu,86
+2011,Netflix,185
+2012,"Amazon Prime",252
+2012,Disney+,41
+2012,Hulu,119
+2012,Netflix,237
+2013,"Amazon Prime",289
+2013,Disney+,32
+2013,Hulu,126
+2013,Netflix,288
+2014,"Amazon Prime",391
+2014,Disney+,50
+2014,Hulu,129
+2014,Netflix,352
+2015,"Amazon Prime",378
+2015,Disney+,46
+2015,Hulu,163
+2015,Netflix,560
+2016,"Amazon Prime",521
+2016,Disney+,61
+2016,Hulu,165
+2016,Netflix,902
+2017,"Amazon Prime",562
+2017,Disney+,69
+2017,Hulu,229
+2017,Netflix,1032
+2018,"Amazon Prime",623
+2018,Disney+,65
+2018,Hulu,270
+2018,Netflix,1147
+2019,"Amazon Prime",929
+2019,Disney+,99
+2019,Hulu,412
+2019,Netflix,1030
+2020,"Amazon Prime",962
+2020,Disney+,114
+2020,Hulu,377
+2020,Netflix,953
+2021,"Amazon Prime",1442
+2021,Disney+,125
+2021,Hulu,226
+2021,Netflix,592

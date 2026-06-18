@@ -1,3 +1,4 @@
+use ott_dashboard;
 SELECT COUNT(*) AS total_titles
 FROM cleaned_dataset;
 SELECT content_type,

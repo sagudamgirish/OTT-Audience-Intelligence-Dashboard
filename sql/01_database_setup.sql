@@ -1,0 +1,27 @@
+-- CREATE TABLE cleaned_dataset (content_id INT,
+--     show_id TEXT,
+--     content_type TEXT,
+--     title TEXT,
+--     director TEXT,
+--     cast TEXT,
+--     country TEXT,
+--     date_added TEXT,
+--     release_year INT,
+--     rating TEXT,
+--     duration TEXT,
+--     genre TEXT,
+--     description TEXT,
+--     platform TEXT,
+--     primary_genre TEXT
+-- );
+-- LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/cleaned_dataset_new.csv'
+-- INTO TABLE cleaned_dataset
+-- FIELDS TERMINATED BY ','
+-- ENCLOSED BY '"'
+-- LINES TERMINATED BY '\r\n'
+-- IGNORE 1 ROWS;
+-- SELECT COUNT(*) FROM cleaned_dataset;
+-- SHOW TABLES;
+-- SELECT * 
+-- FROM cleaned_dataset
+-- LIMIT 5;
